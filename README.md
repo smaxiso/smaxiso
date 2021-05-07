@@ -17,11 +17,13 @@
 
 Hi, I'm [Sumit Kumar](https://www.instagram.com/smaxiso).
 
-<p float="left">
-  <img alt="codeing.gif" src="https://github.com/smaxiso/smaxiso/blob/main/hf.gif?raw=true" width="300" height="200" />
-  <img alt="codeing.gif" src="https://github.com/smaxiso/smaxiso/blob/main/aboutus.gif?raw=true" width="300" height="200" />
-  <img alt="gaming.gif" src="https://github.com/smaxiso/smaxiso/blob/main/gaming.gif?raw=true" width="300" height="200" />
-  <img alt="codeing.gif" src="https://github.com/smaxiso/smaxiso/blob/main/code.gif?raw=true" width="300" height="200" />
+<p float="left" align="center">
+  <img alt="codeing.gif" src="https://github.com/smaxiso/smaxiso/blob/main/hf.gif?raw=true" width="350" height="250" />
+  <img alt="codeing.gif" src="https://github.com/smaxiso/smaxiso/blob/main/aboutus.gif?raw=true" width="350" height="250" />
+  </p>
+  <p float="left" align="center">
+  <img alt="gaming.gif" src="https://github.com/smaxiso/smaxiso/blob/main/gaming.gif?raw=true" width="350" height="250" />
+  <img alt="codeing.gif" src="https://github.com/smaxiso/smaxiso/blob/main/code.gif?raw=true" width="350" height="250" />
 </p>
 
 
