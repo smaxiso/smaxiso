@@ -18,8 +18,8 @@
 Hi, I'm [Sumit Kumar](https://www.instagram.com/smaxiso).
 
 <p float="left">
-  <img align="right" alt="codeing.gif" src="https://github.com/smaxiso/smaxiso/blob/main/code.gif?raw=true" width="500" height="320" />
-  <img align="right" alt="gaming.gif" src="https://github.com/smaxiso/smaxiso/blob/main/gaming.gif?raw=true" width="500" height="320" />
+  <img alt="codeing.gif" src="https://github.com/smaxiso/smaxiso/blob/main/code.gif?raw=true" width="500" height="320" />
+  <img alt="gaming.gif" src="https://github.com/smaxiso/smaxiso/blob/main/gaming.gif?raw=true" width="500" height="320" />
 </p>
 
 
