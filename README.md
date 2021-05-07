@@ -19,6 +19,7 @@ Hi, I'm [Sumit Kumar](https://www.instagram.com/smaxiso).
 
 
   <img align="right" alt="GIF" src="https://github.com/smaxiso/smaxiso/blob/main/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/smaxiso/smaxiso/blob/main/gaming.gif?raw=true" width="500" height="320" />
   
 
 
