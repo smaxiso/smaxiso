@@ -7,7 +7,7 @@
 <a href="https://twitter.com/sumitrajaknitp">
   <img align="left" alt="Sumit Kumar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/sumitrajak/">
+<a href="https://www.linkedin.com/in/smaxiso/">
   <img align="left" alt="Sumit's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
