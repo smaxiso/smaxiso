@@ -1,14 +1,18 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://facebook.com/smaxiso" title="Sumit Kumar | Facebook">
-  <img align="left" alt="Sumit Kumar | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  <img align="left" alt="Sumit Kumar | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/facebook.svg" />
 </a>
 <a href="https://twitter.com/smaxiso" title="Sumit Kumar | Twitter">
-  <img align="left" alt="Sumit Kumar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Sumit Kumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/smaxiso/" title="Sumit Kumar | LinkedIn">
-  <img align="left" alt="Sumit Kumar | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Sumit Kumar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" />
 </a>
+<a href="https://instagram.com/smaxiso" title="Sumit Kumar | Instagram">
+  <img align="left" alt="Sumit Kumar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/instagram.svg" />
+</a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=smaxiso.smaxiso)
 
@@ -40,6 +44,12 @@ Hi, I'm [Sumit Kumar](https://smaxiso.netlify.app/), a dedicated Data Engineer w
 - **Frameworks**: Express.js, Next.js
 - **Cloud Platforms**: AWS, GCP
 - **Tools**: Git, Jenkins
+
+### 🎮 Hobbies
+<p float="left" align="center">
+  <img alt="Coding" src="https://github.com/smaxiso/smaxiso/blob/main/hf.gif?raw=true" width="350" height="250" />
+  <img alt="Gaming" src="https://github.com/smaxiso/smaxiso/blob/main/gaming.gif?raw=true" width="350" height="250" />
+</p>
 
 ### 📈 GitHub Stats
 <p align="center"> 
