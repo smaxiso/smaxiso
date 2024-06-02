@@ -1,28 +1,14 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://facebook.com/smaxiso" title="Sumit Kumar | Facebook">
-  <img align="left" alt="Sumit Kumar | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/facebook.svg" />
-</a>
-<a href="https://twitter.com/smaxiso" title="Sumit Kumar | Twitter">
-  <img align="left" alt="Sumit Kumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/smaxiso/" title="Sumit Kumar | LinkedIn">
-  <img align="left" alt="Sumit Kumar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" />
-</a>
-<a href="https://instagram.com/smaxiso" title="Sumit Kumar | Instagram">
-  <img align="left" alt="Sumit Kumar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/instagram.svg" />
-</a>
-
-
 ![](https://visitor-badge.glitch.me/badge?page_id=smaxiso.smaxiso)
 
 <br />
 
-Hi, I'm [Sumit Kumar](https://smaxiso.netlify.app/), a dedicated Data Engineer with a B.Tech in Computer Science from NIT Patna, where I earned a CGPA of 7.79. Currently, I am contributing my skills as a Data Engineer at Tata Consultancy Services for PayPal, in building a scalable data migration framework for different cross properties of PayPal using Python, AWS, GCS, and Big Query. 
+Hi, I'm [Sumit Kumar](https://smaxiso.netlify.app/), a dedicated Data Engineer with a B.Tech in Computer Science from NIT Patna, where I earned a CGPA of 7.79. Currently, I am contributing my skills as a Data Engineer at TCS Innovator for PayPal. 
 
 ### 🚀 Current Work
-- **Data Engineer** at Tata Consultancy Services
-  - Developing a scalable Data Migration Framework for different cross properties using Python, AWS, GCS, and Big Query.
+- **Data Engineer** at TCS Innovator
+  - Developing a scalable Data Migration Framework for different cross properties of PayPal using Python, AWS, GCS, and Big Query.
   - Reduced data migration time by 20%, improving scalability by 30%.
   - Technologies used: Python, AWS, GCS, Big Query.
 
@@ -58,5 +44,10 @@ Hi, I'm [Sumit Kumar](https://smaxiso.netlify.app/), a dedicated Data Engineer w
 
 ### 📫 How to reach me
 - Email: sumit749284@gmail.com
+- Social Media:
+  - [Facebook](https://facebook.com/smaxiso)
+  - [Twitter](https://twitter.com/smaxiso)
+  - [LinkedIn](https://www.linkedin.com/in/smaxiso/)
+  - [Instagram](https://instagram.com/smaxiso)
 
 Feel free to connect with me on social media platforms or through my website!
