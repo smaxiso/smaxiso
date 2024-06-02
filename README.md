@@ -49,10 +49,11 @@ Hi, I'm [Sumit Kumar](https://smaxiso.netlify.app/), a dedicated Data Engineer w
 ### 📫 How to reach me
 - Email: sumit749284@gmail.com
 
+Feel free to connect with me through email or social media platforms!
+
 <p float="center" align="center">
   <a href="https://facebook.com/smaxiso" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook"/></a>
   <a href="https://twitter.com/smaxiso" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter"/></a>
   <a href="https://www.linkedin.com/in/smaxiso/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://instagram.com/smaxiso" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/></a>
 </p>
-Feel free to connect with me through email or social media platforms!
