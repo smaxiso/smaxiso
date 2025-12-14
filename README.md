@@ -36,11 +36,39 @@ Hi, I'm [Sumit Kumar](https://smaxiso.netlify.app/), a passionate Machine Learni
    - Designed for simple and informative navigation.  
    - Technologies used: HTML, CSS.  
 
+3. **[Smaxiso Writes](https://smaxisowrites.web.app/)**
+   - A collection of poetry exploring themes of love, life, and introspection.
+   - Technologies used: Web App, Poetry, Hosted.
+
+4. **[AI Hub](https://aihubx.web.app/)**
+   - Centralized hub for AI models and tools, streamlining access and management.
+   - Technologies used: AI, Machine Learning, Web App.
+
+5. **[Local RAG](https://github.com/smaxiso/local-rag)**
+   - Local Retrieval-Augmented Generation system for private document chat.
+   - Technologies used: Python, LLM, RAG.
+
+6. **[Contextual News System](https://github.com/smaxiso/contextual-news-system)**
+   - AI-driven news aggregation system with contextual understanding.
+   - Technologies used: AI, NLP.
+
+7. **[Google Search Pro](https://github.com/smaxiso/google-search-pro)**
+   - Advanced search scraper and utility tool.
+   - Technologies used: Python, Scraping.
+
+8. **[CLI Chat Bot](https://github.com/smaxiso/cli-chat-bot)**
+   - Command-line interface chatbot for developer productivity.
+   - Technologies used: Python, CLI.
+
+9. **[VS Code Extension](https://github.com/smaxiso/vs-code-extension)**
+   - Custom Visual Studio Code extension for enhanced developer workflows.
+   - Technologies used: TypeScript, VS Code API.  
+
 ---
 
 ### 🛠 Technologies
 - **Languages**: Python, SQL, JavaScript, C++, C, Java  
-- **Frameworks**: PySpark, Express.js, Next.js  
+- **Frameworks**: PySpark, Flask, FastAPI, Express.js, Next.js  
 - **Cloud Platforms**: AWS, GCP  
 - **Tools**: Git, Jenkins, Airflow  
 
